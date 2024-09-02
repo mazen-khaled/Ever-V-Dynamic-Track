@@ -14,10 +14,10 @@ As the Embedded Team Leader at Shoubra Racing Team, I had the privilege of worki
 - Hardware Used: ATmega32, shunt, voltage divider.
 
 # PCB Designed Using Altium design:
-**Schematic**
+## Schematic
 ![image](https://github.com/user-attachments/assets/1e729f6c-5594-4678-b3a0-460495e25dab)
 
-**PCB**
+## PCB
 ![image](https://github.com/user-attachments/assets/5107a0f8-a0b7-42de-88c2-b2ca25308ea4)
 
 
