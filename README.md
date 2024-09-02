@@ -23,7 +23,8 @@ As the Embedded Team Leader at Shoubra Racing Team, I had the privilege of worki
 
 # 🚦 Gate ECU:
 - Measures vehicle speed, receives data from the Battery ECU, and Take Reading From all car switches.
-- Displays data on the Nextion display using UART
+- Displays data on the Nextion display using UART.
+- Using Time trigger RTOS To handel data sending to the display.
 - Drivers Used: UART 1/2, SYSTICK TIMER, GPIO
 - Hardware Used: Tiva C, proximity sensor, Nextion display
 
