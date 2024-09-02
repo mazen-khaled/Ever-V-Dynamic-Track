@@ -25,7 +25,7 @@ As the Embedded Team Leader at Shoubra Racing Team, I had the privilege of worki
 - Measures vehicle speed, receives data from the Battery ECU, and Take Reading From all car switches.
 - Displays data on the Nextion display using UART.
 - Using Time trigger RTOS To handel data sending to the display.
-- Drivers Used: UART 1/2, SYSTICK TIMER, GPIO
+- Drivers Used: UART 1 for Battery ECU and UART 5 For the screen, SYSTICK TIMER, GPIO
 - Hardware Used: Tiva C, proximity sensor, Nextion display
 
 ![1723933681656](https://github.com/user-attachments/assets/8206a351-e89c-4ec1-95af-8d8d540353e2)
