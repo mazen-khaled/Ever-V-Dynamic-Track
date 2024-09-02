@@ -1,0 +1,11 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of PCB Document [Battery_ECU.PcbDoc]
+   Generated File[Battery_ECU.EXTREP]
+   Generated File[Battery_ECU.REP]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:19:57 PM On 7/9/2024
