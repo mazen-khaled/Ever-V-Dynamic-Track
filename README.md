@@ -28,6 +28,6 @@ As the Embedded Team Leader at Shoubra Racing Team, I had the privilege of worki
 - Drivers Used: UART 1 for Battery ECU and UART 5 For the screen, SYSTICK TIMER, GPIO
 - Hardware Used: Tiva C, proximity sensor, Nextion display
 
-![1723933681656](https://github.com/user-attachments/assets/8206a351-e89c-4ec1-95af-8d8d540353e2)
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8206a351-e89c-4ec1-95af-8d8d540353e2" alt="Description">
+</p>
