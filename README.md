@@ -30,4 +30,7 @@ As the Embedded Team Leader at Shoubra Racing Team, I had the privilege of worki
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8206a351-e89c-4ec1-95af-8d8d540353e2" alt="Description">
+  <img src="https://github.com/user-attachments/assets/c7520b7c-3568-4078-a711-c50ab47cfebc" alt="Description" width=400>
+  <img src="https://github.com/user-attachments/assets/bcb5368e-1f7e-4d12-9367-a3e375d18f77" alt="Description" width=200>
+  <img src="https://github.com/user-attachments/assets/5d22e003-f655-468a-998e-046dabd0ec51" alt="Description" width=400>
 </p>
